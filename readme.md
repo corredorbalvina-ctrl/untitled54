@@ -11,3 +11,5 @@ base de los siguentes numeros 20 30 40
 dividen en 3 segmentos el in-orden
 pre orden y el post orden.. video
 https://www.youtube.com/watch?v=95CgVIsOxLA
+y otro sobre la construcion de estos
+https://youtu.be/KY_6Xduq8jc?si=uEKDbMuPHnEuqbl0
